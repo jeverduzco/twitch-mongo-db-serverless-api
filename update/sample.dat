@@ -2,5 +2,6 @@
 	"_id" : "b7ee568e-2c23-4404-bf6d-ff25c70db9c3",
 	"name" : "Hacer este Twitch",
 	"description" : "Hacer un twitch sobre Mongo DB y Azure Functions",
-	"due_date" : "08-05-2021"
+	"due_date" : "08-05-2021",
+	"completed": false
 }
